@@ -1,6 +1,6 @@
 baseURL = "http://balaramadurai.github.io/"
-title = "Travelify"
-subtitle = "Travel theme for Hugo with Slider"
+title = "Oaktown 4H"
+subtitle = "Making the Best Better"
 languageCode = "en-us"
 # preservetaxonomynames = true
 theme = "hugo-travelify-theme"
@@ -11,11 +11,11 @@ canonifyURLs = true
 [params]
     # Tell me who you are
     author = "nikimonikado"
-    site_description = "Travel theme for Hugo with Slider"
+    site_description = "Making the Best Better"
     copyright  = "Copyright"
 #    avatar = "avatar.png"
     logo = "logo.png"
-    title_in_logo = true # set to true if you want the title along with the logo
+    title_in_logo = true# set to true if you want the title along with the logo
     disable_mathjax = true # set to true to disable MathJax
 
     # Format dates with Go's time formatting
