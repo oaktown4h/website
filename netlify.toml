@@ -1,0 +1,10 @@
+[build]
+  command = "hugo"
+  publish = "docs"
+
+[build.environment]
+  HUGO_VERSION = "0.81"
+
+[context.production.environment]
+  HUGO_VERSION = "0.81"
+
