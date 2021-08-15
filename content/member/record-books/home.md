@@ -5,6 +5,9 @@ nodateline: true
 noprevnext: true
 disable_comments: true
 ---
+
+![](/imogen-wade.jpg)
+
 The 4-H program has a long history of record keeping. This focus reflects the importance of this life skill in our daily lives. In 4-H, young people track their activities, events, profits and losses, skill development and learning experiences.Completing a 4-H Record Book is a process where 4-H members record project and club work.
 
 4-H Record Books serve a variety of purposes:

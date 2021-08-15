@@ -10,3 +10,6 @@ disable_comments: true
 Some text goes here.
 
 ![](/officers.jpg)
+![](/aidan-simu.jpg)
+![](/jackson-law.jpg)
+![](/jessica-vogel.jpg)
