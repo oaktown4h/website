@@ -101,71 +101,65 @@ publishDir = "public"
      parent = "Projects"
      weight = 4
 
-  [[menu.main]]
-       name  = "Arts and Crafts"
-       url   = "/projects/arts-and-crafts/home/"
-       parent = "Projects"
-       weight = 4
+ [[menu.main]]
+    name  = "Arts and Crafts"
+    url   = "/projects/arts-and-crafts/home/"
+    parent = "Projects"
+    weight = 4
 
-   [[menu.main]]
-          name  = "Culinary Arts"
-          url   = "/projects/culinary-arts/home/"
-          parent = "Projects"
-          weight = 4
+ [[menu.main]]
+    name  = "Culinary Arts"
+    url   = "/projects/culinary-arts/home/"
+    parent = "Projects"
+    weight = 4
 
-    [[menu.main]]
-              name  = "Yoga"
-              url   = "/projects/yoga/home/"
-              parent = "Projects"
-              weight = 4
+ [[menu.main]]
+    name  = "Yoga"
+    url   = "/projects/yoga/home/"
+    parent = "Projects"
+    weight = 4
 
-    [[menu.main]]
-              name  = "Centerpieces for Your Table"
-              url   = "/projects/centerpieces-for-your-table/home/"
-              parent = "Projects"
-              weight = 4
+ [[menu.main]]
+    name  = "Centerpieces for Your Table"
+    url   = "/projects/centerpieces-for-your-table/home/"
+    parent = "Projects"
+    weight = 4
 
-     [[menu.main]]
-              name  = "Dog Obedience"
-              url   = "/projects/dog-obedience/home/"
-              parent = "Projects"
-              weight = 4
+ [[menu.main]]
+    name  = "Dog Obedience"
+    url   = "/projects/dog-obedience/home/"
+    parent = "Projects"
+    weight = 4
 
-    [[menu.main]]
-              name  = "Youtube Creations"
-              url   = "/projects/youtube-creations/home/"
-              parent = "Projects"
-              weight = 4
+ [[menu.main]]
+    name  = "Youtube Creations"
+    url   = "/projects/youtube-creations/home/"
+    parent = "Projects"
+    weight = 4
 
-    [[menu.main]]
-           name  = "Beginning Sketchup"
-           url   = "/projects/Beginning Sketchup/home/"
-           parent = "Projects"
-           weight = 4
+ [[menu.main]]
+    name  = "Beginning Sketchup"
+    url   = "/projects/Beginning Sketchup/home/"
+    parent = "Projects"
+    weight = 4
 
-    #[[menu.main]]
-               #name  = "Beginning Sketchup"
-               #url   = "/projects/Beginning Sketchup/home/"
-               #parent = "Projects"
-               #weight = 4
+ [[menu.main]]
+    name  = "Veterinary Science"
+    url   = "/projects/veterinary-science/home/"
+    parent = "Projects"
+    weight = 4
 
-    [[menu.main]]
-           name  = "Veterinary Science"
-           url   = "/projects/veterinary-science/home/"
-           parent = "Projects"
-           weight = 4
+ [[menu.main]]
+    name = "Poultry"
+    url = "/projects/poultry/home/"
+    parent = "Projects"
+    weight = 4
 
-    [[menu.main]]
-           name = "Poultry"
-           url = "projects/poultry/home/"
-           parent = "Projects"
-           weight = 4
-
-    [[menu.main]]
-           name = "Fiber Arts"
-           url = "projects/fiber-arts/home"
-           parent = "Projects"
-           weight = 4
+ [[menu.main]]
+    name = "Fiber Arts"
+    url = "/projects/fiber-arts/home"
+    parent = "Projects"
+    weight = 4
 
 
 

@@ -1,11 +1,9 @@
-e+++
++++
 title = "Environmental Sustainability Project"
 date = "2015-08-03T13:39:46+02:00"
 author = "Aian Simu"
-tags = ["hugo"]
-categories = ["pseudo"]
-#menu = ""
-#banner = "banners/7148951717_9bbf185db3_h-1018x460.jpg"
+tags = ["environment"]
+categories = ["projects"]
 slider = false
 disable_profile = true
 +++

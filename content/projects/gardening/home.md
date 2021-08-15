@@ -1,9 +1,9 @@
 +++
 title = "Gardening"
-date = "2015-08-03T13:39:46+02:00"
-author = "test1"
-tags = ["hugo"]
-categories = ["pseudo"]
+date = "Sun, 15 Aug 2021 16:18:12 GMT"
+author = "Aidan Simu"
+tags = ["gardening"]
+categories = ["projects"]
 slider = false
 disable_profile = false
 recent_articles = true

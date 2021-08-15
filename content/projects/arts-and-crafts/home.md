@@ -1,6 +1,9 @@
 ---
 title: Arts and Crafts
-date: 2017-06-07T15:36:00+05:30
+date: "Sun, 15 Aug 2021 16:18:12 GMT"
+tags: ["arts and crafts"]
+author: "Aidan Simu"
+category: ["projects"]
 noprevnext: true
 nodateline: true
 disable_comments: true
