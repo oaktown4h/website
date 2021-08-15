@@ -7,7 +7,20 @@ category: ["projects"]
 noprevnext: true
 nodateline: true
 disable_comments: true
-
 ---
+![](/pastries.png)
 
-Some text goes here.
+## Project Overview
+
+Ages:8+
+
+## Leaders
+
+##  Meetings
+
+### Example Meeting
+
+
+![](/orange-dessert.png)
+
+![](/pancake.png)

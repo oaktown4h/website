@@ -9,8 +9,7 @@ disable_profile = false
 recent_articles = true
 +++
 
-## Gardening
-
+![](/aidan-harvesting-potatoes.png)
 ## Project Overview
 
 Gardening is a project that introduces you to many aspects learning by doing in 4-H, and allows you to learn how to grow and harvest fruits and vegetables. 
@@ -33,7 +32,13 @@ Agenda:
 Harvest root vegetables for the fair
 
 
-![](/IMG_2186.jpg)
+![](/melina-harvesting-peas.png)
+
+![](/rylee-cleaning-veggies.png)
+
+![](/quill-harvesting-peas.png)
+
+
 
 
 

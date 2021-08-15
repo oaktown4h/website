@@ -10,4 +10,26 @@ disable_comments: true
 
 ---
 
-Some text goes here.
+![](/centerpieces-1.png)
+
+## Project Overview
+
+Learn how to make a centerpiece for your dining table with stuff you have around the house
+
+Ages:9+
+
+## Leaders
+Jolene La is the current leader. Contact details: 
+
+
+##  Meetings
+
+Monthly, on a Friday or Saturday October through March
+
+### Example Meeting
+
+some text goes here.
+
+![](/in-person-floral-meeting.png)
+
+![](/finished-floral-design.png)

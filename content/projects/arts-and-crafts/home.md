@@ -7,7 +7,10 @@ category: ["projects"]
 noprevnext: true
 nodateline: true
 disable_comments: true
-
 ---
 
+![](/lilianne-sewing.jpg)
+
+
 Some text goes here.
+

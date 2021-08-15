@@ -8,8 +8,6 @@ slider = false
 disable_profile = true
 +++
 
-## Environmental Science
-
 ## Project Overview
 
 Environmental Science is a project where you take many small field trips around the Bay Area (in person and virtually) to unique habitats and learn their history and if the ecosystem is endangered, how can we help it.
@@ -33,7 +31,7 @@ Location: Jack London Aquatic Park
 Agenda:
 Measure the density of salt in different parts of the bay on and make a model of the bay.
 
-![](PXL_20210516_181103318-2.jpg)
+![](/jack-london-square.png)
 
 
 

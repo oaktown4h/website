@@ -10,4 +10,22 @@ disable_comments: true
 
 ---
 
-Some text goes here.
+## Project Overview
+
+Learn about basic dog care and dog obedience.  Owning a dog is not necessary.
+
+## Leaders
+
+Erich Vogel is the current leader of dog obedience. Contact Details:
+ 
+
+
+##  Meetings
+
+Meetings are yearlong
+
+
+### Example Meeting
+ 
+
+
