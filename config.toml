@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "OakTown 4H"
+title = "Oaktown 4-H"
 subtitle = "Youth Development Organization"
 languageCode = "en-us"
 # preservetaxonomynames = true
@@ -11,11 +11,11 @@ publishDir = "public"
 
 [params]
     # Tell me who you are
-    author = "dashsdot"
-    site_description = "OakTown 4H"
+    author = "Aidan Simu"
+    # site_description = "OakTown 4H"
     copyright  = "Copyright"
     # avatar = "avatar.png"
-    # logo = "logo.png"
+    logo = "4H-logo.png"
     title_in_logo = true # set to true if you want the title along with the logo
     disable_mathjax = true # set to true to disable MathJax
 
@@ -33,63 +33,209 @@ publishDir = "public"
 # E.g.: "Home" appears before all linked posts in the menu
 # and "Tags" / "Categories" after them.
 
+#[[menu.main]]
+#    name  = "Welcome"
+#    url   = "/post/welcome/home/"
+#    weight = 1
 
 [[menu.main]]
     name  = "Why join Oaktown 4-H?"
-    url   = "/whyJoin/"
-    weight = 10
+    url   = "/why-join/home/"
+    weight = 2
 
 [[menu.main]]
     name  = "About 4-H"
-    url   = "/about/"
-    weight = 10
+    url   = "/about/home/"
+    weight = 3
+
+[[menu.main]]
+    name  = "Meet Our Leaders"
+    url   = "/about/leaders/"
+    parent = "About 4-H"
+    weight = 3
+
+[[menu.main]]
+    name  = "Meet Our Officers"
+    url   = "/about/officers/"
+    parent = "About 4-H"
+    weight = 3
 
 [[menu.main]]
     name  = "Projects"
-    url   = "/post/"
-    weight = 10
-    
+    url   = "/projects/home/"
+    weight = 4
+
+[[menu.main]]
+    name  = "Gardening"
+    url   = "/projects/gardening/home/"
+    parent = "Projects"
+    weight = 4
+
+[[menu.main]]
+    name  = "Rabbits"
+    url   = "/projects/rabbits/home/"
+    parent = "Projects"
+    weight = 4
+
+[[menu.main]]
+    name  = "Environmental Sustainability"
+    url   = "/projects/environment/home/"
+    parent = "Projects"
+    weight = 4
+
+[[menu.main]]
+    name  = "Floral Design"
+    url   = "/projects/floral-design/home/"
+    parent = "Projects"
+    weight = 4
+
+ [[menu.main]]
+    name  = "Throw Down"
+    url   = "/projects/throw-down/home/"
+    parent = "Projects"
+    weight = 4
+
+ [[menu.main]]
+     name  = "Hiking"
+     url   = "/projects/hiking/home/"
+     parent = "Projects"
+     weight = 4
+
+  [[menu.main]]
+       name  = "Arts and Crafts"
+       url   = "/projects/arts-and-crafts/home/"
+       parent = "Projects"
+       weight = 4
+
+   [[menu.main]]
+          name  = "Culinary Arts"
+          url   = "/projects/culinary-arts/home/"
+          parent = "Projects"
+          weight = 4
+
+    [[menu.main]]
+              name  = "Yoga"
+              url   = "/projects/yoga/home/"
+              parent = "Projects"
+              weight = 4
+
+    [[menu.main]]
+              name  = "Centerpieces for Your Table"
+              url   = "/projects/centerpieces-for-your-table/home/"
+              parent = "Projects"
+              weight = 4
+
+     [[menu.main]]
+              name  = "Dog Obedience"
+              url   = "/projects/dog-obedience/home/"
+              parent = "Projects"
+              weight = 4
+
+    [[menu.main]]
+              name  = "Youtube Creations"
+              url   = "/projects/youtube-creations/home/"
+              parent = "Projects"
+              weight = 4
+
+    [[menu.main]]
+           name  = "Beginning Sketchup"
+           url   = "/projects/Beginning Sketchup/home/"
+           parent = "Projects"
+           weight = 4
+
+    #[[menu.main]]
+               #name  = "Beginning Sketchup"
+               #url   = "/projects/Beginning Sketchup/home/"
+               #parent = "Projects"
+               #weight = 4
+
+    [[menu.main]]
+           name  = "Veterinary Science"
+           url   = "/projects/veterinary-science/home/"
+           parent = "Projects"
+           weight = 4
+
+    [[menu.main]]
+           name = "Poultry"
+           url = "projects/poultry/home/"
+           parent = "Projects"
+           weight = 4
+
+    [[menu.main]]
+           name = "Fiber Arts"
+           url = "projects/fiber-arts/home"
+           parent = "Projects"
+           weight = 4
+
+
+
+
+
+
+[[menu.main]]
+    name  = "Photography"
+    url   = "/projects/photography/home/"
+    parent = "Projects"
+    weight = 4
+
+[[menu.main]]
+    name  = "Member Resources"
+    url   = "/member/home/"
+    weight = 8
+
+
 [[menu.main]]
     name  = "Record Books"
-    url   = "/record-books/"
+    url   = "/member/record-books/home"
+    parent = "Member Resources"
     weight = 10
 
 [[menu.main]]
-    name  = "Club Photo Gallery"
+    name  = "Officers"
+    url   = "/member/officers/home"
+    parent = "Member Resources"
+    weight = 10
+
+[[menu.main]]
+   name  = "Newsletters"
+   url   = "/member/newsletters/home"
+   parent = "Member Resources"
+   weight = 10
+
+
+[[menu.main]]
+    name  = "Calendar"
+    url   = "https://calendar.google.com/calendar/embed?src=oaktown4h%40gmail.com&ctz=America%2FLos_Angeles"
+    weight = 7
+
+
+[[menu.main]]
+    name  = "Photo Gallery"
     url   = "/photo-gallery.html/"
-    weight = 10
+    weight = 6
+
+#[[menu.main]]
+#    name  = "Archives"
+#    url   = "/archives"
+#    weight = 10
 
 [[menu.main]]
-    name  = "Archives"
-    url   = "/archives"
-    weight = 10
-# [[menu.main]]
-#     name  = "contact"
-#     url   = "/contact/"
-#     weight = 20
+     name = "Community Service"
+     url  = "/community/home/"
+     weight = 5
 
-# [[menu.main]]
-#     name  = "Contact2"
-#     url   = "/contact/"
-#     parent = "contact"
+[[menu.main]]
+    name  = "Join Us!"
+    url   = "/join/home/"
+    weight = 9
 
-# [[menu.main]]
-#     name  = "Contact21"
-#     url   = "/contact/"
-#     parent = "Contact2"
-#     weight = 20
+[[menu.main]]
+     name  = "Sign Up Form"
+     url   = "https://forms.gle/dbX88qKRHMzisk2W7"
+     parent = "Join Us!"
+     weight = 9
 
-# [[menu.main]]
-#     name  = "cOntact22"
-#     url   = "/contact/"
-#     parent = "Contact2"
-#     weight = 10
 
-# [[menu.main]]
-#     name  = "cOntact3"
-#     url   = "/contact/"
-#     parent = "contact"
-		
 [params.share]
     enable = true
     facebook = true
@@ -106,22 +252,22 @@ DisqusShortname = "example"
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
 # created automatically.
-    rss             = "Needed" # leave this to blank if you do not want RSS feed icon to appear on top
-    github          = "example"
-    flickr          = "example"
-    instagram       = "example"
-    youtube         = "example"
-    vimeo           = "example"
-    tumblr          = "example"
-    linkedin        = "example"
-    pinterest       = "example"
-    facebook        = "example"
-    twitter         = "example"
-    email           = "joe@example.com"	
+    #rss             = "Needed" # leave this to blank if you do not want RSS feed icon to appear on top
+    #github          = "example"
+    #flickr          = "example"
+    #instagram       = "example"
+    #youtube         = "example"
+    #vimeo           = "example"
+    #tumblr          = "example"
+    #linkedin        = "example"
+    #pinterest       = "example"
+    #facebook        = "example"
+    twitter         = "oaktown4h"
+    email           = "oaktown4h@gmail.com"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    recent_articles = true
+    recent_articles = false
     categories = true
     tags = true
     tag_cloud = false
@@ -133,7 +279,7 @@ DisqusShortname = "example"
 
 [params.slider]
     enable = true
-    manual = false # Setting manual to true renders the slide selection to only those where the post has a slider=true option enabled
+    manual = true # Setting manual to true renders the slide selection to only those where the post has a slider=true option enabled
     num_features = 6 # The slider picks up the banner images from the N most recent posts, where num_features is N.
     
 [permalinks]
