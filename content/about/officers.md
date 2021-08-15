@@ -9,3 +9,4 @@ disable_comments: true
 
 Some text goes here.
 
+![](/officers.jpg)
